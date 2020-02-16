@@ -1,1 +1,1 @@
-# wordpress-gcp-terraform
+# terraform
